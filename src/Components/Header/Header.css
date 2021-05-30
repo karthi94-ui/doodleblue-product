@@ -1,0 +1,14 @@
+.product-btn > button {
+  background-color: #fa4859 !important;
+  color: white !important;
+  font-size: 20px;
+  padding: 8px 40px;
+  border-radius: 3px;
+  margin: 7px 0px;
+  cursor: pointer;
+}
+.header {
+  margin-bottom: 55px;
+  display: flex;
+  justify-content: space-between;
+}

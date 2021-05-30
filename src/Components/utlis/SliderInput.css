@@ -1,0 +1,24 @@
+.filter-btn {
+  background-color: #fa4859 !important;
+  color: white !important;
+  font-size: 14px !important;
+  padding: 8px 40px;
+  border-radius: 3px;
+  margin: 7px 0px;
+  cursor: pointer;
+  height: 25px;
+  text-transform: none !important;
+}
+.slide-contain {
+  display: flex;
+  justify-content: space-between;
+}
+.silder-container {
+  margin-top: 40px;
+  margin-bottom: 55px;
+  color: #9ea8b3;
+}
+.silder-value {
+  color: #5e6386;
+  font-weight: 600;
+}

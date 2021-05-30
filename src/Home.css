@@ -1,0 +1,17 @@
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.side-container {
+  flex: 0.2;
+  justify-content: center;
+  align-items: center;
+}
+.product-container {
+  flex: 0.8;
+}
+.footer-container {
+  display: flex;
+  justify-content: center;
+}
